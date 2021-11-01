@@ -1,0 +1,152 @@
+@media (min-width: 576px) {
+    .education-container{
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .education-container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .education-container {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .education-container {
+        max-width: 1140px;
+    }
+}
+@media screen and  (min-width: 1200px){
+    .education-max-container {
+        max-width: 1550px;
+    }
+    .education-max-container-1260 {
+        max-width: 1260px;
+    }
+
+}
+
+@media (max-width: 1024px) and (min-width: 320px) {
+    .education-DISCOUNTS_info-card{
+        display: block;
+    }
+    .education-DISCOUNTS_info-card_width{
+        max-width: 100%;
+    }
+    .education-DISCOUNTS_info-card__content {
+        margin-bottom: 20px;
+    }
+    .education-DISCOUNTS_info-card__title {
+        margin-bottom: 20px;
+    }
+    .education-DISCOUNTS_info-card__title{
+        text-align: center;
+    }
+    .education-DISCOUNTS_img{
+        padding-left: 0;
+    }
+    .education-applyNow-form{
+        margin: 0;
+    }
+    .education-applyNow-form__red_button {
+        margin: 0 auto 30px;
+    }
+    .education-applyNow-img {
+        margin: 20px auto;
+        width: 100%;
+    }
+    .education-applyNow-imgImg {
+        width: 100%;
+    }
+}
+@media (max-width: 998px) and (min-width: 320px) {
+    .education-section-h2,
+    .education-main_info__title{
+        font-size: 30px;
+    }
+    .education-main_info__text{
+        font-size: 14px;
+    }
+    .education-DISCOUNTS_title, .education-aboutTailornova_title{
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .education-DISCOUNTS_info-card__title{
+        font-size: 20px;
+    }
+    .education-DISCOUNTS_info {
+        margin: 0 0 39px;
+        width: 100%;
+    }
+    .education-DISCOUNTS_info-card__subtext{
+        font-size: 14px;
+    }
+    .education-container{
+        max-width: 800px;
+        padding: 0 40px;
+    }
+    .education-InfoList-list__li{
+        line-height: 35px;
+    }
+
+}
+@media (max-width: 767px) and (min-width: 320px) {
+    .education-section-h2,
+    .education-main_info__title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .education-DISCOUNTS_title,
+    .education-aboutTailornova_title{
+        font-size: 16px;
+    }
+    .education-DISCOUNTS_info-card__title{
+        font-size: 16px;
+    }
+    .education-InfoList-list__li{
+        font-size: 16px;
+    }
+    .education-plan_info-card__header-img{
+        width: 100%;
+    }
+    .education-applyNow-form__red_button,
+    .education-red-button{
+        font-size: 14px;
+    }
+    .education-applyNow-form__header {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .education-applyNow-form__col{
+        width: 100%;
+    }
+    .education-applyNow-form{
+        margin: 0;
+        width: 100%;
+    }
+    .education-onlineFashion_bg{
+        padding: 20px;
+    }
+    .education-plan_bg{
+        height: 200px;
+    }
+    .education-InfoList_list{
+        padding: 20px 0;
+    }
+    .education-main_bg{
+        padding: 20px;
+    }
+    .education-InfoList-list__li{
+        line-height: 30px;
+    }
+    .education-form-group {
+        max-width: 100%;
+        margin-bottom: 24px;
+        width: 100%;
+    }
+}
